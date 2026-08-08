@@ -1,0 +1,21 @@
+request_id,location,category,description,urgency,status
+REQ101,Balme Library,Electrical,Faulty lighting in reading room,3,Pending
+REQ102,Great Hall,Plumbing,Water leakage near washroom,5,Pending
+REQ103,Physics Department,ICT,Projector not working,2,Pending
+REQ104,Volta Hall,Furniture,Broken study desk,1,Pending
+REQ105,University Hospital,Electrical,Power fluctuation in ward,5,Pending
+REQ106,UGCS,Network,Internet connectivity issue,4,Pending
+REQ107,Commonwealth Hall,Plumbing,Blocked drainage system,4,Pending
+REQ108,Central Cafeteria,Electrical,Faulty refrigerator socket,3,Pending
+REQ109,Mathematics Department,ICT,Printer not responding,2,Pending
+REQ110,Legon Hall,Furniture,Damaged wardrobe door,1,Pending
+REQ111,School of Engineering,Electrical,Generator maintenance required,5,Pending
+REQ112,Business School,ICT,WiFi access point failure,4,Pending
+REQ113,Sarbah Hall,Plumbing,Bathroom tap leaking,3,Pending
+REQ114,Medical School,Electrical,Air conditioner not powering on,4,Pending
+REQ115,Night Market,Sanitation,Waste collection overdue,2,Pending
+REQ116,School of Law,Network,Network switch malfunction,5,Pending
+REQ117,UG Stadium,Furniture,Broken spectator seats,2,Pending
+REQ118,Fire Station,Electrical,Emergency alarm battery replacement,5,Pending
+REQ119,Sarbah Annex,ICT,Desktop computers failing to boot,3,Pending
+REQ120,College of Health Sciences,Plumbing,Low water pressure in laboratory,4,Pending

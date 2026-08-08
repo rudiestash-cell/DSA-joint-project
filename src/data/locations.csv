@@ -1,0 +1,26 @@
+id,name,type
+1,UGCS,Department
+2,Balme Library,Library
+3,Great Hall,Hall
+4,Commonwealth Hall,Hostel
+5,Volta Hall,Hostel
+6,Legon Hall,Hostel
+7,Akuafo Hall,Hostel
+8,Night Market,Commercial
+9,Banking Square,Commercial
+10,Bush Canteen,Commercial
+11,Physics Department,Department
+12,Chemistry Department,Department
+13,Mathematics Department,Department
+14,Central Cafeteria,Commercial
+15,University Hospital,Hospital
+16,School of Engineering,Department
+17,School of Law,Department
+18,Business School,Department
+19,UG Stadium,Facility
+20,Fire Station,Facility
+21,Medical School,Department
+22,Legon Police Station,Facility
+23,Sarbah Hall,Hostel
+24,Sarbah Annex,Hostel
+25,College of Health Sciences,Department
