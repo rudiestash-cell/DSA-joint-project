@@ -5,7 +5,6 @@ CREATE TABLE locations (
 );
 
 CREATE TABLE roads (
-    INTEGER PRIMARY KEY AUTOINCREMENT,
     from_location INTEGER NOT NULL,
     to_location INTEGER NOT NULL,
     distance REAL NOT NULL CHECK(distance > 0),
