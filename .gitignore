@@ -1,0 +1,7 @@
+# Ignore compiled Java class files and build directories
+bin/
+*.class
+
+# Ignore local explanation file (as requested)
+EXPLANATION.md
+EXPLANATION_MODULE_M3.md
