@@ -1,0 +1,51 @@
+locationId,name,area,type,latitude,longitude
+UG001,UGCS,Department,Central Campus,5.6501,-0.187
+UG002,Balme Library,Library,Central Campus,5.651,-0.1865
+UG003,Great Hall,Hall,Central Campus,5.6517,-0.1874
+UG004,Commonwealth Hall,Hostel,North Campus,5.656,-0.186
+UG005,Volta Hall,Hostel,Central Campus,5.653,-0.188
+UG006,Akuafo Hall,Hostel,Central Campus,5.6522,-0.19
+UG007,Legon Hall,Hostel,Central Campus,5.6538,-0.1908
+UG008,Mensah Sarbah Hall,Hostel,East Campus,5.6545,-0.192
+UG009,TFPP,Academic Centre,Central Campus,5.6498,-0.1892
+UG010,Physics Department,Department,Science Area,5.6488,-0.1855
+UG011,Chemistry Department,Department,Science Area,5.6482,-0.1847
+UG012,Mathematics Department,Department,Science Area,5.649,-0.184
+UG013,Computer Science Department,Department,Science Area,5.6495,-0.1832
+UG014,School of Business,School,East Campus,5.647,-0.1815
+UG015,School of Law,School,East Campus,5.6463,-0.1804
+UG016,School of Engineering,School,Science Area,5.6478,-0.181
+UG017,School of Agriculture,School,North Campus,5.6552,-0.1798
+UG018,School of Physical Sciences,School,Science Area,5.6485,-0.1838
+UG019,School of Biological Sciences,School,Science Area,5.6474,-0.1848
+UG020,School of Nursing,School,East Campus,5.6459,-0.1779
+UG021,UG Medical School,School,Korle Bu Link,5.647,-0.1768
+UG022,Noguchi Memorial Institute,Research,East Campus,5.6505,-0.177
+UG023,ISSER,Research,East Campus,5.6468,-0.1788
+UG024,University Bookshop,Shop,Central Campus,5.6506,-0.1887
+UG025,Night Market,Market,Central Campus,5.6547,-0.187
+UG026,UG Main Gate,Gate,Main Entrance,5.658,-0.185
+UG027,Okponglo Gate,Gate,East Entrance,5.6445,-0.179
+UG028,Ayi Mensah Gate,Gate,North Entrance,5.66,-0.18
+UG029,Fire Station,Emergency,Central Campus,5.6528,-0.184
+UG030,University Health Services,Health Centre,Central Campus,5.6534,-0.1828
+UG031,Sports Directorate,Sports,Sports Area,5.655,-0.1915
+UG032,UG Stadium,Sports,Sports Area,5.6562,-0.193
+UG033,Aquatic Centre,Sports,Sports Area,5.654,-0.194
+UG034,Balme Car Park,Car Park,Central Campus,5.6515,-0.1858
+UG035,Commonwealth Road Junction,Junction,North Campus,5.6565,-0.1848
+UG036,Volta Hall Junction,Junction,Central Campus,5.6531,-0.1868
+UG037,Science Roundabout,Junction,Science Area,5.6492,-0.1828
+UG038,JQB,Lecture Block,Central Campus,5.65,-0.188
+UG039,Department of Statistics,Department,Science Area,5.648,-0.182
+UG040,Department of Psychology,Department,Central Campus,5.6505,-0.191
+UG041,School of Education,School,Central Campus,5.6518,-0.193
+UG042,School of Communication,School,Central Campus,5.6509,-0.1938
+UG043,School of Performing Arts,School,Central Campus,5.6528,-0.1928
+UG044,Institute of African Studies,Institute,Central Campus,5.654,-0.1898
+UG045,Legon Botanical Gardens,Recreation,North Campus,5.6585,-0.1775
+UG046,Graduate Students Centre,Centre,Central Campus,5.6488,-0.1912
+UG047,SRC Secretariat,Office,Central Campus,5.6508,-0.1904
+UG048,University Auditorium,Lecture Hall,Central Campus,5.6497,-0.1922
+UG049,Radio Univers,Media,Central Campus,5.6538,-0.1855
+UG050,Maintenance Yard,Facility,North Campus,5.657,-0.1815

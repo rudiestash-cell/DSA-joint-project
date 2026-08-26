@@ -1,0 +1,31 @@
+resourceId,type,homeLocation,capacity,availabilityStatus
+RES001,ICT Support,UG040,1,Off Duty
+RES002,Electrician,UG019,5,Busy
+RES003,Driver,UG050,3,Busy
+RES004,Technician,UG034,5,Available
+RES005,ICT Support,UG018,4,Available
+RES006,Cleaning Crew,UG012,1,Off Duty
+RES007,Cleaning Crew,UG024,5,Off Duty
+RES008,Facilities Officer,UG001,1,Available
+RES009,Maintenance Van,UG004,1,Off Duty
+RES010,Electrician,UG021,1,Available
+RES011,Maintenance Van,UG032,1,Off Duty
+RES012,Driver,UG007,1,Available
+RES013,Electrician,UG049,4,Available
+RES014,Maintenance Van,UG015,3,Busy
+RES015,Plumber,UG003,1,Busy
+RES016,Facilities Officer,UG034,4,Busy
+RES017,Facilities Officer,UG045,1,Busy
+RES018,Cleaning Crew,UG046,1,Available
+RES019,Cleaning Crew,UG020,2,Busy
+RES020,Technician,UG006,1,Available
+RES021,Plumber,UG002,5,Available
+RES022,Maintenance Van,UG003,3,Available
+RES023,Plumber,UG041,1,Available
+RES024,Electrician,UG020,4,Available
+RES025,Driver,UG049,1,Busy
+RES026,Technician,UG032,3,Busy
+RES027,Plumber,UG012,1,Available
+RES028,Cleaning Crew,UG009,4,Available
+RES029,Technician,UG033,2,Off Duty
+RES030,Driver,UG029,1,Busy

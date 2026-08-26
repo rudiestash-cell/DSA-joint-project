@@ -1,0 +1,301 @@
+requestId,source,destination,category,description,urgency,timeSubmitted,deadline,status
+REQ1001,Mensah Sarbah Hall,UG Medical School,Laboratory,laboratory service request from Mensah Sarbah Hall to UG Medical School,5,2026-08-01 10:07:00,2026-08-04 11:07:00,Pending
+REQ1002,School of Law,Department of Statistics,Network,network service request from School of Law to Department of Statistics,5,2026-08-02 13:14:00,2026-08-04 18:14:00,Pending
+REQ1003,Volta Hall Junction,SRC Secretariat,Road Maintenance,road maintenance service request from Volta Hall Junction to SRC Secretariat,5,2026-08-03 16:21:00,2026-08-05 18:21:00,Pending
+REQ1004,UGCS,Department of Psychology,Plumbing,plumbing service request from UGCS to Department of Psychology,1,2026-08-04 08:28:00,2026-08-06 09:28:00,Pending
+REQ1005,Fire Station,UGCS,Road Maintenance,road maintenance service request from Fire Station to UGCS,3,2026-08-05 11:35:00,2026-08-06 15:35:00,Pending
+REQ1006,School of Agriculture,ISSER,Security,security service request from School of Agriculture to ISSER,4,2026-08-06 14:42:00,2026-08-09 19:42:00,Pending
+REQ1007,School of Education,Volta Hall,Security,security service request from School of Education to Volta Hall,1,2026-08-07 17:49:00,2026-08-10 22:49:00,Pending
+REQ1008,School of Biological Sciences,University Health Services,ICT,ict service request from School of Biological Sciences to University Health Services,5,2026-08-08 09:56:00,2026-08-10 10:56:00,Pending
+REQ1009,Graduate Students Centre,University Bookshop,Security,security service request from Graduate Students Centre to University Bookshop,4,2026-08-09 12:03:00,2026-08-11 13:03:00,Pending
+REQ1010,UG Main Gate,JQB,Laboratory,laboratory service request from UG Main Gate to JQB,4,2026-08-10 15:10:00,2026-08-11 19:10:00,Pending
+REQ1011,Aquatic Centre,Radio Univers,Network,network service request from Aquatic Centre to Radio Univers,4,2026-08-11 07:17:00,2026-08-13 12:17:00,Pending
+REQ1012,School of Agriculture,Okponglo Gate,Network,network service request from School of Agriculture to Okponglo Gate,4,2026-08-12 10:24:00,2026-08-15 15:24:00,Pending
+REQ1013,Balme Library,Science Roundabout,Furniture,furniture service request from Balme Library to Science Roundabout,2,2026-08-13 13:31:00,2026-08-14 19:31:00,Pending
+REQ1014,Balme Car Park,School of Performing Arts,Plumbing,plumbing service request from Balme Car Park to School of Performing Arts,5,2026-08-14 16:38:00,2026-08-16 20:38:00,Pending
+REQ1015,Physics Department,Sports Directorate,Furniture,furniture service request from Physics Department to Sports Directorate,1,2026-08-15 08:45:00,2026-08-18 14:45:00,Pending
+REQ1016,University Health Services,Institute of African Studies,Road Maintenance,road maintenance service request from University Health Services to Institute of African Studies,5,2026-08-16 11:52:00,2026-08-18 16:52:00,Pending
+REQ1017,UG Main Gate,School of Performing Arts,Cleaning,cleaning service request from UG Main Gate to School of Performing Arts,5,2026-08-17 14:59:00,2026-08-20 19:59:00,Pending
+REQ1018,Legon Botanical Gardens,Sports Directorate,Water Supply,water supply service request from Legon Botanical Gardens to Sports Directorate,4,2026-08-18 17:06:00,2026-08-19 20:06:00,Pending
+REQ1019,School of Physical Sciences,UGCS,Electrical,electrical service request from School of Physical Sciences to UGCS,2,2026-08-19 09:13:00,2026-08-22 14:13:00,Pending
+REQ1020,University Health Services,Balme Car Park,Road Maintenance,road maintenance service request from University Health Services to Balme Car Park,3,2026-08-20 12:20:00,2026-08-21 15:20:00,Pending
+REQ1021,Legon Botanical Gardens,UG Stadium,Road Maintenance,road maintenance service request from Legon Botanical Gardens to UG Stadium,5,2026-08-21 15:27:00,2026-08-23 19:27:00,Pending
+REQ1022,Volta Hall Junction,School of Performing Arts,Electrical,electrical service request from Volta Hall Junction to School of Performing Arts,3,2026-08-22 07:34:00,2026-08-24 11:34:00,Pending
+REQ1023,Legon Hall,Fire Station,Laboratory,laboratory service request from Legon Hall to Fire Station,3,2026-08-23 10:41:00,2026-08-25 12:41:00,Pending
+REQ1024,Ayi Mensah Gate,SRC Secretariat,Road Maintenance,road maintenance service request from Ayi Mensah Gate to SRC Secretariat,1,2026-08-24 13:48:00,2026-08-27 16:48:00,Pending
+REQ1025,UG Stadium,University Bookshop,Plumbing,plumbing service request from UG Stadium to University Bookshop,2,2026-08-25 16:55:00,2026-08-28 20:55:00,Pending
+REQ1026,Physics Department,Fire Station,Electrical,electrical service request from Physics Department to Fire Station,1,2026-08-26 08:02:00,2026-08-27 12:02:00,Pending
+REQ1027,JQB,Commonwealth Road Junction,Plumbing,plumbing service request from JQB to Commonwealth Road Junction,5,2026-08-27 11:09:00,2026-08-28 13:09:00,Pending
+REQ1028,Mensah Sarbah Hall,Department of Psychology,Electrical,electrical service request from Mensah Sarbah Hall to Department of Psychology,5,2026-08-28 14:16:00,2026-08-30 20:16:00,Pending
+REQ1029,Radio Univers,School of Education,Security,security service request from Radio Univers to School of Education,2,2026-08-01 17:23:00,2026-08-02 20:23:00,Pending
+REQ1030,School of Performing Arts,JQB,Network,network service request from School of Performing Arts to JQB,4,2026-08-02 09:30:00,2026-08-05 15:30:00,Pending
+REQ1031,TFPP,Commonwealth Road Junction,Furniture,furniture service request from TFPP to Commonwealth Road Junction,4,2026-08-03 12:37:00,2026-08-06 14:37:00,Pending
+REQ1032,Department of Statistics,Legon Botanical Gardens,Laboratory,laboratory service request from Department of Statistics to Legon Botanical Gardens,3,2026-08-04 15:44:00,2026-08-05 19:44:00,Pending
+REQ1033,School of Performing Arts,Chemistry Department,ICT,ict service request from School of Performing Arts to Chemistry Department,5,2026-08-05 07:51:00,2026-08-07 12:51:00,Pending
+REQ1034,Okponglo Gate,Night Market,ICT,ict service request from Okponglo Gate to Night Market,5,2026-08-06 10:58:00,2026-08-07 14:58:00,Pending
+REQ1035,UGCS,Legon Hall,Water Supply,water supply service request from UGCS to Legon Hall,1,2026-08-07 13:05:00,2026-08-08 16:05:00,Pending
+REQ1036,School of Communication,ISSER,Electrical,electrical service request from School of Communication to ISSER,1,2026-08-08 16:12:00,2026-08-11 20:12:00,Pending
+REQ1037,UG Medical School,Institute of African Studies,Cleaning,cleaning service request from UG Medical School to Institute of African Studies,4,2026-08-09 08:19:00,2026-08-11 09:19:00,Pending
+REQ1038,UG Stadium,University Health Services,Network,network service request from UG Stadium to University Health Services,5,2026-08-10 11:26:00,2026-08-11 13:26:00,Pending
+REQ1039,JQB,Balme Car Park,Furniture,furniture service request from JQB to Balme Car Park,4,2026-08-11 14:33:00,2026-08-14 17:33:00,Pending
+REQ1040,University Health Services,Department of Statistics,Furniture,furniture service request from University Health Services to Department of Statistics,1,2026-08-12 17:40:00,2026-08-15 21:40:00,Pending
+REQ1041,Great Hall,Computer Science Department,ICT,ict service request from Great Hall to Computer Science Department,1,2026-08-13 09:47:00,2026-08-16 14:47:00,Pending
+REQ1042,Commonwealth Hall,Fire Station,Furniture,furniture service request from Commonwealth Hall to Fire Station,4,2026-08-14 12:54:00,2026-08-17 18:54:00,Pending
+REQ1043,Balme Library,TFPP,Laboratory,laboratory service request from Balme Library to TFPP,2,2026-08-15 15:01:00,2026-08-18 17:01:00,Pending
+REQ1044,Chemistry Department,School of Performing Arts,ICT,ict service request from Chemistry Department to School of Performing Arts,4,2026-08-16 07:08:00,2026-08-18 11:08:00,Pending
+REQ1045,Commonwealth Road Junction,Okponglo Gate,Plumbing,plumbing service request from Commonwealth Road Junction to Okponglo Gate,4,2026-08-17 10:15:00,2026-08-19 12:15:00,Pending
+REQ1046,ISSER,Mathematics Department,Cleaning,cleaning service request from ISSER to Mathematics Department,4,2026-08-18 13:22:00,2026-08-20 17:22:00,Pending
+REQ1047,School of Biological Sciences,University Health Services,ICT,ict service request from School of Biological Sciences to University Health Services,3,2026-08-19 16:29:00,2026-08-22 20:29:00,Pending
+REQ1048,Fire Station,Mensah Sarbah Hall,Laboratory,laboratory service request from Fire Station to Mensah Sarbah Hall,5,2026-08-20 08:36:00,2026-08-22 09:36:00,Pending
+REQ1049,School of Business,School of Law,Electrical,electrical service request from School of Business to School of Law,1,2026-08-21 11:43:00,2026-08-23 17:43:00,Pending
+REQ1050,Noguchi Memorial Institute,Okponglo Gate,Laboratory,laboratory service request from Noguchi Memorial Institute to Okponglo Gate,2,2026-08-22 14:50:00,2026-08-23 17:50:00,Pending
+REQ1051,Chemistry Department,ISSER,Laboratory,laboratory service request from Chemistry Department to ISSER,5,2026-08-23 17:57:00,2026-08-26 19:57:00,Pending
+REQ1052,Mensah Sarbah Hall,Department of Psychology,Cleaning,cleaning service request from Mensah Sarbah Hall to Department of Psychology,5,2026-08-24 09:04:00,2026-08-27 15:04:00,Pending
+REQ1053,School of Business,Science Roundabout,Cleaning,cleaning service request from School of Business to Science Roundabout,5,2026-08-25 12:11:00,2026-08-27 18:11:00,Pending
+REQ1054,Volta Hall Junction,TFPP,Plumbing,plumbing service request from Volta Hall Junction to TFPP,3,2026-08-26 15:18:00,2026-08-27 19:18:00,Pending
+REQ1055,Chemistry Department,Legon Hall,Electrical,electrical service request from Chemistry Department to Legon Hall,3,2026-08-27 07:25:00,2026-08-30 09:25:00,Pending
+REQ1056,School of Communication,School of Education,Plumbing,plumbing service request from School of Communication to School of Education,5,2026-08-28 10:32:00,2026-08-30 13:32:00,Pending
+REQ1057,JQB,Volta Hall,Cleaning,cleaning service request from JQB to Volta Hall,3,2026-08-01 13:39:00,2026-08-02 16:39:00,Pending
+REQ1058,School of Agriculture,Volta Hall,Electrical,electrical service request from School of Agriculture to Volta Hall,4,2026-08-02 16:46:00,2026-08-04 20:46:00,Pending
+REQ1059,UGCS,Commonwealth Hall,Plumbing,plumbing service request from UGCS to Commonwealth Hall,2,2026-08-03 08:53:00,2026-08-04 11:53:00,Pending
+REQ1060,Mensah Sarbah Hall,Legon Hall,Laboratory,laboratory service request from Mensah Sarbah Hall to Legon Hall,5,2026-08-04 11:00:00,2026-08-06 14:00:00,Pending
+REQ1061,Maintenance Yard,University Health Services,Network,network service request from Maintenance Yard to University Health Services,5,2026-08-05 14:07:00,2026-08-06 18:07:00,Pending
+REQ1062,UG Medical School,Department of Statistics,Furniture,furniture service request from UG Medical School to Department of Statistics,5,2026-08-06 17:14:00,2026-08-08 21:14:00,Pending
+REQ1063,Institute of African Studies,Mensah Sarbah Hall,Security,security service request from Institute of African Studies to Mensah Sarbah Hall,5,2026-08-07 09:21:00,2026-08-10 12:21:00,Pending
+REQ1064,Night Market,School of Biological Sciences,Security,security service request from Night Market to School of Biological Sciences,1,2026-08-08 12:28:00,2026-08-11 18:28:00,Pending
+REQ1065,Ayi Mensah Gate,Balme Library,Cleaning,cleaning service request from Ayi Mensah Gate to Balme Library,3,2026-08-09 15:35:00,2026-08-11 21:35:00,Pending
+REQ1066,Maintenance Yard,Mensah Sarbah Hall,Cleaning,cleaning service request from Maintenance Yard to Mensah Sarbah Hall,4,2026-08-10 07:42:00,2026-08-12 12:42:00,Pending
+REQ1067,Balme Library,Commonwealth Road Junction,Security,security service request from Balme Library to Commonwealth Road Junction,2,2026-08-11 10:49:00,2026-08-14 11:49:00,Pending
+REQ1068,SRC Secretariat,Mensah Sarbah Hall,ICT,ict service request from SRC Secretariat to Mensah Sarbah Hall,5,2026-08-12 13:56:00,2026-08-13 14:56:00,Pending
+REQ1069,Great Hall,TFPP,Laboratory,laboratory service request from Great Hall to TFPP,3,2026-08-13 16:03:00,2026-08-16 22:03:00,Pending
+REQ1070,School of Communication,School of Nursing,Electrical,electrical service request from School of Communication to School of Nursing,4,2026-08-14 08:10:00,2026-08-17 10:10:00,Pending
+REQ1071,ISSER,Okponglo Gate,Water Supply,water supply service request from ISSER to Okponglo Gate,4,2026-08-15 11:17:00,2026-08-16 15:17:00,Pending
+REQ1072,School of Performing Arts,School of Law,ICT,ict service request from School of Performing Arts to School of Law,2,2026-08-16 14:24:00,2026-08-19 15:24:00,Pending
+REQ1073,School of Performing Arts,Graduate Students Centre,Laboratory,laboratory service request from School of Performing Arts to Graduate Students Centre,5,2026-08-17 17:31:00,2026-08-19 20:31:00,Pending
+REQ1074,Physics Department,School of Law,Electrical,electrical service request from Physics Department to School of Law,1,2026-08-18 09:38:00,2026-08-20 14:38:00,Pending
+REQ1075,Sports Directorate,Okponglo Gate,Cleaning,cleaning service request from Sports Directorate to Okponglo Gate,3,2026-08-19 12:45:00,2026-08-20 18:45:00,Pending
+REQ1076,JQB,Akuafo Hall,ICT,ict service request from JQB to Akuafo Hall,5,2026-08-20 15:52:00,2026-08-21 21:52:00,Pending
+REQ1077,Aquatic Centre,School of Agriculture,Security,security service request from Aquatic Centre to School of Agriculture,5,2026-08-21 07:59:00,2026-08-24 10:59:00,Pending
+REQ1078,Commonwealth Hall,School of Performing Arts,Electrical,electrical service request from Commonwealth Hall to School of Performing Arts,2,2026-08-22 10:06:00,2026-08-24 11:06:00,Pending
+REQ1079,School of Law,Institute of African Studies,Laboratory,laboratory service request from School of Law to Institute of African Studies,2,2026-08-23 13:13:00,2026-08-26 17:13:00,Pending
+REQ1080,Graduate Students Centre,University Bookshop,Furniture,furniture service request from Graduate Students Centre to University Bookshop,5,2026-08-24 16:20:00,2026-08-26 19:20:00,Pending
+REQ1081,Computer Science Department,University Bookshop,Security,security service request from Computer Science Department to University Bookshop,4,2026-08-25 08:27:00,2026-08-28 12:27:00,Pending
+REQ1082,Volta Hall Junction,Sports Directorate,Network,network service request from Volta Hall Junction to Sports Directorate,3,2026-08-26 11:34:00,2026-08-27 13:34:00,Pending
+REQ1083,School of Education,Okponglo Gate,ICT,ict service request from School of Education to Okponglo Gate,4,2026-08-27 14:41:00,2026-08-28 17:41:00,Pending
+REQ1084,Balme Car Park,Legon Botanical Gardens,Water Supply,water supply service request from Balme Car Park to Legon Botanical Gardens,1,2026-08-28 17:48:00,2026-08-31 19:48:00,Pending
+REQ1085,Akuafo Hall,School of Nursing,Security,security service request from Akuafo Hall to School of Nursing,5,2026-08-01 09:55:00,2026-08-04 12:55:00,Pending
+REQ1086,TFPP,Graduate Students Centre,Plumbing,plumbing service request from TFPP to Graduate Students Centre,1,2026-08-02 12:02:00,2026-08-05 14:02:00,Pending
+REQ1087,Legon Botanical Gardens,JQB,Cleaning,cleaning service request from Legon Botanical Gardens to JQB,5,2026-08-03 15:09:00,2026-08-04 19:09:00,Pending
+REQ1088,Night Market,Commonwealth Road Junction,Laboratory,laboratory service request from Night Market to Commonwealth Road Junction,2,2026-08-04 07:16:00,2026-08-07 08:16:00,Pending
+REQ1089,Akuafo Hall,Physics Department,Water Supply,water supply service request from Akuafo Hall to Physics Department,3,2026-08-05 10:23:00,2026-08-08 13:23:00,Pending
+REQ1090,School of Nursing,Great Hall,Network,network service request from School of Nursing to Great Hall,2,2026-08-06 13:30:00,2026-08-07 16:30:00,Pending
+REQ1091,School of Biological Sciences,Commonwealth Road Junction,Cleaning,cleaning service request from School of Biological Sciences to Commonwealth Road Junction,3,2026-08-07 16:37:00,2026-08-08 20:37:00,Pending
+REQ1092,Computer Science Department,University Auditorium,Electrical,electrical service request from Computer Science Department to University Auditorium,5,2026-08-08 08:44:00,2026-08-11 12:44:00,Pending
+REQ1093,Ayi Mensah Gate,ISSER,Laboratory,laboratory service request from Ayi Mensah Gate to ISSER,2,2026-08-09 11:51:00,2026-08-12 16:51:00,Pending
+REQ1094,Balme Library,Mathematics Department,Security,security service request from Balme Library to Mathematics Department,5,2026-08-10 14:58:00,2026-08-11 16:58:00,Pending
+REQ1095,Balme Library,Mensah Sarbah Hall,Laboratory,laboratory service request from Balme Library to Mensah Sarbah Hall,1,2026-08-11 17:05:00,2026-08-13 18:05:00,Pending
+REQ1096,University Bookshop,School of Nursing,Furniture,furniture service request from University Bookshop to School of Nursing,5,2026-08-12 09:12:00,2026-08-13 14:12:00,Pending
+REQ1097,Department of Psychology,School of Engineering,ICT,ict service request from Department of Psychology to School of Engineering,1,2026-08-13 12:19:00,2026-08-15 16:19:00,Pending
+REQ1098,Legon Hall,SRC Secretariat,Plumbing,plumbing service request from Legon Hall to SRC Secretariat,4,2026-08-14 15:26:00,2026-08-16 20:26:00,Pending
+REQ1099,School of Nursing,School of Communication,Plumbing,plumbing service request from School of Nursing to School of Communication,3,2026-08-15 07:33:00,2026-08-17 11:33:00,Pending
+REQ1100,Mensah Sarbah Hall,Volta Hall Junction,Laboratory,laboratory service request from Mensah Sarbah Hall to Volta Hall Junction,2,2026-08-16 10:40:00,2026-08-18 16:40:00,Pending
+REQ1101,University Health Services,JQB,Security,security service request from University Health Services to JQB,1,2026-08-17 13:47:00,2026-08-18 14:47:00,Pending
+REQ1102,UG Stadium,Maintenance Yard,Cleaning,cleaning service request from UG Stadium to Maintenance Yard,3,2026-08-18 16:54:00,2026-08-21 18:54:00,Pending
+REQ1103,Chemistry Department,UG Medical School,Water Supply,water supply service request from Chemistry Department to UG Medical School,5,2026-08-19 08:01:00,2026-08-22 11:01:00,Pending
+REQ1104,UG Medical School,SRC Secretariat,Road Maintenance,road maintenance service request from UG Medical School to SRC Secretariat,4,2026-08-20 11:08:00,2026-08-22 13:08:00,Pending
+REQ1105,Computer Science Department,University Health Services,Furniture,furniture service request from Computer Science Department to University Health Services,3,2026-08-21 14:15:00,2026-08-23 18:15:00,Pending
+REQ1106,JQB,Night Market,Furniture,furniture service request from JQB to Night Market,2,2026-08-22 17:22:00,2026-08-24 23:22:00,Pending
+REQ1107,Science Roundabout,School of Performing Arts,ICT,ict service request from Science Roundabout to School of Performing Arts,4,2026-08-23 09:29:00,2026-08-25 12:29:00,Pending
+REQ1108,Mensah Sarbah Hall,UG Medical School,Cleaning,cleaning service request from Mensah Sarbah Hall to UG Medical School,4,2026-08-24 12:36:00,2026-08-26 14:36:00,Pending
+REQ1109,Commonwealth Road Junction,School of Education,Cleaning,cleaning service request from Commonwealth Road Junction to School of Education,2,2026-08-25 15:43:00,2026-08-27 17:43:00,Pending
+REQ1110,Volta Hall Junction,Maintenance Yard,Plumbing,plumbing service request from Volta Hall Junction to Maintenance Yard,3,2026-08-26 07:50:00,2026-08-28 12:50:00,Pending
+REQ1111,University Health Services,School of Education,Water Supply,water supply service request from University Health Services to School of Education,4,2026-08-27 10:57:00,2026-08-28 15:57:00,Pending
+REQ1112,Graduate Students Centre,Noguchi Memorial Institute,Water Supply,water supply service request from Graduate Students Centre to Noguchi Memorial Institute,3,2026-08-28 13:04:00,2026-08-29 19:04:00,Pending
+REQ1113,Maintenance Yard,UG Stadium,Laboratory,laboratory service request from Maintenance Yard to UG Stadium,5,2026-08-01 16:11:00,2026-08-02 20:11:00,Pending
+REQ1114,ISSER,School of Communication,Security,security service request from ISSER to School of Communication,1,2026-08-02 08:18:00,2026-08-04 14:18:00,Pending
+REQ1115,Mathematics Department,UGCS,Cleaning,cleaning service request from Mathematics Department to UGCS,5,2026-08-03 11:25:00,2026-08-06 14:25:00,Pending
+REQ1116,TFPP,Noguchi Memorial Institute,Network,network service request from TFPP to Noguchi Memorial Institute,5,2026-08-04 14:32:00,2026-08-06 18:32:00,Pending
+REQ1117,Sports Directorate,Noguchi Memorial Institute,Electrical,electrical service request from Sports Directorate to Noguchi Memorial Institute,1,2026-08-05 17:39:00,2026-08-06 23:39:00,Pending
+REQ1118,Mensah Sarbah Hall,School of Performing Arts,Cleaning,cleaning service request from Mensah Sarbah Hall to School of Performing Arts,3,2026-08-06 09:46:00,2026-08-07 11:46:00,Pending
+REQ1119,University Health Services,Aquatic Centre,Cleaning,cleaning service request from University Health Services to Aquatic Centre,5,2026-08-07 12:53:00,2026-08-10 15:53:00,Pending
+REQ1120,Akuafo Hall,Volta Hall Junction,Furniture,furniture service request from Akuafo Hall to Volta Hall Junction,5,2026-08-08 15:00:00,2026-08-09 16:00:00,Pending
+REQ1121,Physics Department,Noguchi Memorial Institute,Furniture,furniture service request from Physics Department to Noguchi Memorial Institute,4,2026-08-09 07:07:00,2026-08-10 12:07:00,Pending
+REQ1122,Institute of African Studies,Chemistry Department,Cleaning,cleaning service request from Institute of African Studies to Chemistry Department,1,2026-08-10 10:14:00,2026-08-13 14:14:00,Pending
+REQ1123,Graduate Students Centre,Balme Car Park,Network,network service request from Graduate Students Centre to Balme Car Park,5,2026-08-11 13:21:00,2026-08-12 14:21:00,Pending
+REQ1124,Balme Library,School of Physical Sciences,Water Supply,water supply service request from Balme Library to School of Physical Sciences,1,2026-08-12 16:28:00,2026-08-13 21:28:00,Pending
+REQ1125,SRC Secretariat,Aquatic Centre,Furniture,furniture service request from SRC Secretariat to Aquatic Centre,4,2026-08-13 08:35:00,2026-08-16 14:35:00,Pending
+REQ1126,Noguchi Memorial Institute,ISSER,Security,security service request from Noguchi Memorial Institute to ISSER,5,2026-08-14 11:42:00,2026-08-16 14:42:00,Pending
+REQ1127,UG Stadium,UG Medical School,Cleaning,cleaning service request from UG Stadium to UG Medical School,1,2026-08-15 14:49:00,2026-08-18 18:49:00,Pending
+REQ1128,TFPP,Balme Library,Road Maintenance,road maintenance service request from TFPP to Balme Library,3,2026-08-16 17:56:00,2026-08-18 21:56:00,Pending
+REQ1129,Computer Science Department,University Bookshop,Cleaning,cleaning service request from Computer Science Department to University Bookshop,5,2026-08-17 09:03:00,2026-08-20 13:03:00,Pending
+REQ1130,School of Nursing,School of Business,Network,network service request from School of Nursing to School of Business,1,2026-08-18 12:10:00,2026-08-20 13:10:00,Pending
+REQ1131,SRC Secretariat,School of Communication,Laboratory,laboratory service request from SRC Secretariat to School of Communication,5,2026-08-19 15:17:00,2026-08-21 19:17:00,Pending
+REQ1132,Department of Psychology,Akuafo Hall,Laboratory,laboratory service request from Department of Psychology to Akuafo Hall,5,2026-08-20 07:24:00,2026-08-23 10:24:00,Pending
+REQ1133,UG Stadium,UG Medical School,Security,security service request from UG Stadium to UG Medical School,3,2026-08-21 10:31:00,2026-08-22 11:31:00,Pending
+REQ1134,Volta Hall Junction,Mathematics Department,Cleaning,cleaning service request from Volta Hall Junction to Mathematics Department,5,2026-08-22 13:38:00,2026-08-25 17:38:00,Pending
+REQ1135,School of Education,Legon Hall,Network,network service request from School of Education to Legon Hall,2,2026-08-23 16:45:00,2026-08-24 20:45:00,Pending
+REQ1136,School of Engineering,School of Business,Water Supply,water supply service request from School of Engineering to School of Business,5,2026-08-24 08:52:00,2026-08-27 10:52:00,Pending
+REQ1137,Aquatic Centre,School of Business,Cleaning,cleaning service request from Aquatic Centre to School of Business,4,2026-08-25 11:59:00,2026-08-26 16:59:00,Pending
+REQ1138,Institute of African Studies,UG Medical School,Security,security service request from Institute of African Studies to UG Medical School,4,2026-08-26 14:06:00,2026-08-29 19:06:00,Pending
+REQ1139,SRC Secretariat,Commonwealth Road Junction,Furniture,furniture service request from SRC Secretariat to Commonwealth Road Junction,2,2026-08-27 17:13:00,2026-08-30 22:13:00,Pending
+REQ1140,Graduate Students Centre,Physics Department,ICT,ict service request from Graduate Students Centre to Physics Department,2,2026-08-28 09:20:00,2026-08-31 14:20:00,Pending
+REQ1141,Commonwealth Hall,School of Performing Arts,Electrical,electrical service request from Commonwealth Hall to School of Performing Arts,3,2026-08-01 12:27:00,2026-08-03 14:27:00,Pending
+REQ1142,TFPP,School of Physical Sciences,Laboratory,laboratory service request from TFPP to School of Physical Sciences,3,2026-08-02 15:34:00,2026-08-03 19:34:00,Pending
+REQ1143,Chemistry Department,Mathematics Department,Electrical,electrical service request from Chemistry Department to Mathematics Department,2,2026-08-03 07:41:00,2026-08-06 09:41:00,Pending
+REQ1144,Okponglo Gate,School of Communication,Network,network service request from Okponglo Gate to School of Communication,4,2026-08-04 10:48:00,2026-08-07 11:48:00,Pending
+REQ1145,School of Nursing,School of Law,Laboratory,laboratory service request from School of Nursing to School of Law,3,2026-08-05 13:55:00,2026-08-08 14:55:00,Pending
+REQ1146,University Health Services,Institute of African Studies,Water Supply,water supply service request from University Health Services to Institute of African Studies,2,2026-08-06 16:02:00,2026-08-08 18:02:00,Pending
+REQ1147,Graduate Students Centre,Aquatic Centre,Electrical,electrical service request from Graduate Students Centre to Aquatic Centre,4,2026-08-07 08:09:00,2026-08-08 09:09:00,Pending
+REQ1148,Legon Hall,ISSER,Network,network service request from Legon Hall to ISSER,3,2026-08-08 11:16:00,2026-08-10 12:16:00,Pending
+REQ1149,Chemistry Department,Aquatic Centre,Furniture,furniture service request from Chemistry Department to Aquatic Centre,1,2026-08-09 14:23:00,2026-08-11 20:23:00,Pending
+REQ1150,Ayi Mensah Gate,Computer Science Department,ICT,ict service request from Ayi Mensah Gate to Computer Science Department,2,2026-08-10 17:30:00,2026-08-11 23:30:00,Pending
+REQ1151,UG Stadium,School of Business,Security,security service request from UG Stadium to School of Business,2,2026-08-11 09:37:00,2026-08-14 13:37:00,Pending
+REQ1152,SRC Secretariat,Ayi Mensah Gate,Road Maintenance,road maintenance service request from SRC Secretariat to Ayi Mensah Gate,3,2026-08-12 12:44:00,2026-08-15 14:44:00,Pending
+REQ1153,School of Nursing,School of Education,Road Maintenance,road maintenance service request from School of Nursing to School of Education,5,2026-08-13 15:51:00,2026-08-16 19:51:00,Pending
+REQ1154,Akuafo Hall,School of Business,Furniture,furniture service request from Akuafo Hall to School of Business,1,2026-08-14 07:58:00,2026-08-15 10:58:00,Pending
+REQ1155,Graduate Students Centre,Institute of African Studies,Network,network service request from Graduate Students Centre to Institute of African Studies,2,2026-08-15 10:05:00,2026-08-16 12:05:00,Pending
+REQ1156,School of Business,School of Communication,Water Supply,water supply service request from School of Business to School of Communication,2,2026-08-16 13:12:00,2026-08-18 14:12:00,Pending
+REQ1157,Volta Hall Junction,Physics Department,Cleaning,cleaning service request from Volta Hall Junction to Physics Department,3,2026-08-17 16:19:00,2026-08-20 19:19:00,Pending
+REQ1158,UG Main Gate,UGCS,Road Maintenance,road maintenance service request from UG Main Gate to UGCS,5,2026-08-18 08:26:00,2026-08-20 11:26:00,Pending
+REQ1159,ISSER,UG Stadium,ICT,ict service request from ISSER to UG Stadium,1,2026-08-19 11:33:00,2026-08-20 16:33:00,Pending
+REQ1160,School of Law,ISSER,Road Maintenance,road maintenance service request from School of Law to ISSER,4,2026-08-20 14:40:00,2026-08-23 20:40:00,Pending
+REQ1161,JQB,Commonwealth Hall,Laboratory,laboratory service request from JQB to Commonwealth Hall,3,2026-08-21 17:47:00,2026-08-23 23:47:00,Pending
+REQ1162,Akuafo Hall,University Health Services,Road Maintenance,road maintenance service request from Akuafo Hall to University Health Services,3,2026-08-22 09:54:00,2026-08-25 14:54:00,Pending
+REQ1163,Balme Car Park,Legon Hall,Cleaning,cleaning service request from Balme Car Park to Legon Hall,3,2026-08-23 12:01:00,2026-08-24 13:01:00,Pending
+REQ1164,JQB,Great Hall,Plumbing,plumbing service request from JQB to Great Hall,5,2026-08-24 15:08:00,2026-08-26 20:08:00,Pending
+REQ1165,Legon Hall,Night Market,Network,network service request from Legon Hall to Night Market,4,2026-08-25 07:15:00,2026-08-28 11:15:00,Pending
+REQ1166,Commonwealth Road Junction,Balme Library,ICT,ict service request from Commonwealth Road Junction to Balme Library,3,2026-08-26 10:22:00,2026-08-27 11:22:00,Pending
+REQ1167,Legon Hall,UG Main Gate,Plumbing,plumbing service request from Legon Hall to UG Main Gate,2,2026-08-27 13:29:00,2026-08-30 16:29:00,Pending
+REQ1168,Balme Library,Great Hall,Plumbing,plumbing service request from Balme Library to Great Hall,5,2026-08-28 16:36:00,2026-08-31 17:36:00,Pending
+REQ1169,SRC Secretariat,Noguchi Memorial Institute,ICT,ict service request from SRC Secretariat to Noguchi Memorial Institute,3,2026-08-01 08:43:00,2026-08-03 10:43:00,Pending
+REQ1170,UG Medical School,Graduate Students Centre,Road Maintenance,road maintenance service request from UG Medical School to Graduate Students Centre,2,2026-08-02 11:50:00,2026-08-04 13:50:00,Pending
+REQ1171,Aquatic Centre,UG Medical School,Water Supply,water supply service request from Aquatic Centre to UG Medical School,1,2026-08-03 14:57:00,2026-08-05 16:57:00,Pending
+REQ1172,Department of Statistics,Mathematics Department,Road Maintenance,road maintenance service request from Department of Statistics to Mathematics Department,2,2026-08-04 17:04:00,2026-08-05 22:04:00,Pending
+REQ1173,Sports Directorate,JQB,Water Supply,water supply service request from Sports Directorate to JQB,4,2026-08-05 09:11:00,2026-08-08 10:11:00,Pending
+REQ1174,UG Stadium,School of Business,Water Supply,water supply service request from UG Stadium to School of Business,1,2026-08-06 12:18:00,2026-08-09 16:18:00,Pending
+REQ1175,TFPP,School of Biological Sciences,Furniture,furniture service request from TFPP to School of Biological Sciences,5,2026-08-07 15:25:00,2026-08-09 18:25:00,Pending
+REQ1176,Maintenance Yard,Ayi Mensah Gate,Network,network service request from Maintenance Yard to Ayi Mensah Gate,1,2026-08-08 07:32:00,2026-08-10 12:32:00,Pending
+REQ1177,Balme Car Park,Chemistry Department,Laboratory,laboratory service request from Balme Car Park to Chemistry Department,1,2026-08-09 10:39:00,2026-08-12 13:39:00,Pending
+REQ1178,School of Business,JQB,Plumbing,plumbing service request from School of Business to JQB,5,2026-08-10 13:46:00,2026-08-11 17:46:00,Pending
+REQ1179,UG Main Gate,Mensah Sarbah Hall,Plumbing,plumbing service request from UG Main Gate to Mensah Sarbah Hall,4,2026-08-11 16:53:00,2026-08-13 17:53:00,Pending
+REQ1180,School of Engineering,Computer Science Department,Electrical,electrical service request from School of Engineering to Computer Science Department,3,2026-08-12 08:00:00,2026-08-13 13:00:00,Pending
+REQ1181,School of Physical Sciences,University Bookshop,Plumbing,plumbing service request from School of Physical Sciences to University Bookshop,3,2026-08-13 11:07:00,2026-08-14 12:07:00,Pending
+REQ1182,School of Business,Graduate Students Centre,Laboratory,laboratory service request from School of Business to Graduate Students Centre,1,2026-08-14 14:14:00,2026-08-16 19:14:00,Pending
+REQ1183,School of Performing Arts,Great Hall,Security,security service request from School of Performing Arts to Great Hall,4,2026-08-15 17:21:00,2026-08-18 23:21:00,Pending
+REQ1184,Great Hall,Computer Science Department,Road Maintenance,road maintenance service request from Great Hall to Computer Science Department,1,2026-08-16 09:28:00,2026-08-18 10:28:00,Pending
+REQ1185,Chemistry Department,School of Communication,Plumbing,plumbing service request from Chemistry Department to School of Communication,3,2026-08-17 12:35:00,2026-08-18 13:35:00,Pending
+REQ1186,School of Biological Sciences,Department of Psychology,Electrical,electrical service request from School of Biological Sciences to Department of Psychology,4,2026-08-18 15:42:00,2026-08-20 16:42:00,Pending
+REQ1187,Legon Botanical Gardens,SRC Secretariat,Laboratory,laboratory service request from Legon Botanical Gardens to SRC Secretariat,2,2026-08-19 07:49:00,2026-08-22 13:49:00,Pending
+REQ1188,Balme Car Park,JQB,Laboratory,laboratory service request from Balme Car Park to JQB,2,2026-08-20 10:56:00,2026-08-22 11:56:00,Pending
+REQ1189,Commonwealth Road Junction,ISSER,Furniture,furniture service request from Commonwealth Road Junction to ISSER,5,2026-08-21 13:03:00,2026-08-23 17:03:00,Pending
+REQ1190,Akuafo Hall,School of Engineering,Electrical,electrical service request from Akuafo Hall to School of Engineering,1,2026-08-22 16:10:00,2026-08-24 20:10:00,Pending
+REQ1191,Volta Hall Junction,Akuafo Hall,Road Maintenance,road maintenance service request from Volta Hall Junction to Akuafo Hall,5,2026-08-23 08:17:00,2026-08-24 10:17:00,Pending
+REQ1192,School of Engineering,Chemistry Department,Laboratory,laboratory service request from School of Engineering to Chemistry Department,2,2026-08-24 11:24:00,2026-08-27 14:24:00,Pending
+REQ1193,UG Main Gate,School of Physical Sciences,ICT,ict service request from UG Main Gate to School of Physical Sciences,4,2026-08-25 14:31:00,2026-08-26 15:31:00,Pending
+REQ1194,ISSER,Volta Hall,ICT,ict service request from ISSER to Volta Hall,5,2026-08-26 17:38:00,2026-08-29 19:38:00,Pending
+REQ1195,Sports Directorate,Legon Botanical Gardens,ICT,ict service request from Sports Directorate to Legon Botanical Gardens,3,2026-08-27 09:45:00,2026-08-28 13:45:00,Pending
+REQ1196,Volta Hall Junction,Mensah Sarbah Hall,ICT,ict service request from Volta Hall Junction to Mensah Sarbah Hall,1,2026-08-28 12:52:00,2026-08-30 13:52:00,Pending
+REQ1197,Legon Botanical Gardens,UG Stadium,Water Supply,water supply service request from Legon Botanical Gardens to UG Stadium,5,2026-08-01 15:59:00,2026-08-03 20:59:00,Pending
+REQ1198,ISSER,Akuafo Hall,Network,network service request from ISSER to Akuafo Hall,1,2026-08-02 07:06:00,2026-08-05 10:06:00,Pending
+REQ1199,School of Engineering,Mensah Sarbah Hall,Water Supply,water supply service request from School of Engineering to Mensah Sarbah Hall,2,2026-08-03 10:13:00,2026-08-05 15:13:00,Pending
+REQ1200,Institute of African Studies,Science Roundabout,Network,network service request from Institute of African Studies to Science Roundabout,2,2026-08-04 13:20:00,2026-08-06 19:20:00,Pending
+REQ1201,Commonwealth Road Junction,UGCS,Electrical,electrical service request from Commonwealth Road Junction to UGCS,3,2026-08-05 16:27:00,2026-08-08 18:27:00,Pending
+REQ1202,Graduate Students Centre,University Health Services,Network,network service request from Graduate Students Centre to University Health Services,1,2026-08-06 08:34:00,2026-08-07 14:34:00,Pending
+REQ1203,Sports Directorate,Radio Univers,ICT,ict service request from Sports Directorate to Radio Univers,5,2026-08-07 11:41:00,2026-08-10 17:41:00,Pending
+REQ1204,Sports Directorate,Mensah Sarbah Hall,Plumbing,plumbing service request from Sports Directorate to Mensah Sarbah Hall,2,2026-08-08 14:48:00,2026-08-09 19:48:00,Pending
+REQ1205,Balme Car Park,School of Nursing,ICT,ict service request from Balme Car Park to School of Nursing,4,2026-08-09 17:55:00,2026-08-11 18:55:00,Pending
+REQ1206,Fire Station,Department of Statistics,Cleaning,cleaning service request from Fire Station to Department of Statistics,2,2026-08-10 09:02:00,2026-08-12 15:02:00,Pending
+REQ1207,School of Education,UGCS,Road Maintenance,road maintenance service request from School of Education to UGCS,5,2026-08-11 12:09:00,2026-08-12 13:09:00,Pending
+REQ1208,School of Law,UG Medical School,Road Maintenance,road maintenance service request from School of Law to UG Medical School,1,2026-08-12 15:16:00,2026-08-14 18:16:00,Pending
+REQ1209,Fire Station,Maintenance Yard,Road Maintenance,road maintenance service request from Fire Station to Maintenance Yard,3,2026-08-13 07:23:00,2026-08-15 11:23:00,Pending
+REQ1210,University Auditorium,Department of Psychology,Water Supply,water supply service request from University Auditorium to Department of Psychology,4,2026-08-14 10:30:00,2026-08-16 13:30:00,Pending
+REQ1211,Chemistry Department,Legon Hall,Network,network service request from Chemistry Department to Legon Hall,5,2026-08-15 13:37:00,2026-08-16 15:37:00,Pending
+REQ1212,School of Business,Legon Botanical Gardens,Cleaning,cleaning service request from School of Business to Legon Botanical Gardens,4,2026-08-16 16:44:00,2026-08-17 22:44:00,Pending
+REQ1213,School of Performing Arts,UG Medical School,ICT,ict service request from School of Performing Arts to UG Medical School,1,2026-08-17 08:51:00,2026-08-18 12:51:00,Pending
+REQ1214,TFPP,Department of Statistics,Security,security service request from TFPP to Department of Statistics,5,2026-08-18 11:58:00,2026-08-20 13:58:00,Pending
+REQ1215,Department of Psychology,Volta Hall Junction,Cleaning,cleaning service request from Department of Psychology to Volta Hall Junction,5,2026-08-19 14:05:00,2026-08-22 18:05:00,Pending
+REQ1216,Legon Botanical Gardens,School of Agriculture,Security,security service request from Legon Botanical Gardens to School of Agriculture,4,2026-08-20 17:12:00,2026-08-21 19:12:00,Pending
+REQ1217,Aquatic Centre,School of Nursing,Electrical,electrical service request from Aquatic Centre to School of Nursing,5,2026-08-21 09:19:00,2026-08-22 12:19:00,Pending
+REQ1218,Chemistry Department,Ayi Mensah Gate,Network,network service request from Chemistry Department to Ayi Mensah Gate,2,2026-08-22 12:26:00,2026-08-24 16:26:00,Pending
+REQ1219,School of Education,UG Stadium,Electrical,electrical service request from School of Education to UG Stadium,5,2026-08-23 15:33:00,2026-08-25 21:33:00,Pending
+REQ1220,Great Hall,Department of Statistics,Laboratory,laboratory service request from Great Hall to Department of Statistics,3,2026-08-24 07:40:00,2026-08-27 10:40:00,Pending
+REQ1221,Okponglo Gate,School of Law,Laboratory,laboratory service request from Okponglo Gate to School of Law,5,2026-08-25 10:47:00,2026-08-27 16:47:00,Pending
+REQ1222,Department of Psychology,Aquatic Centre,Security,security service request from Department of Psychology to Aquatic Centre,3,2026-08-26 13:54:00,2026-08-28 18:54:00,Pending
+REQ1223,School of Law,UGCS,Water Supply,water supply service request from School of Law to UGCS,5,2026-08-27 16:01:00,2026-08-29 20:01:00,Pending
+REQ1224,Department of Psychology,University Bookshop,Furniture,furniture service request from Department of Psychology to University Bookshop,5,2026-08-28 08:08:00,2026-08-31 12:08:00,Pending
+REQ1225,ISSER,University Auditorium,Electrical,electrical service request from ISSER to University Auditorium,1,2026-08-01 11:15:00,2026-08-02 13:15:00,Pending
+REQ1226,Mathematics Department,UG Stadium,Network,network service request from Mathematics Department to UG Stadium,4,2026-08-02 14:22:00,2026-08-04 16:22:00,Pending
+REQ1227,Ayi Mensah Gate,Aquatic Centre,Furniture,furniture service request from Ayi Mensah Gate to Aquatic Centre,3,2026-08-03 17:29:00,2026-08-04 22:29:00,Pending
+REQ1228,Akuafo Hall,Legon Hall,Plumbing,plumbing service request from Akuafo Hall to Legon Hall,2,2026-08-04 09:36:00,2026-08-06 10:36:00,Pending
+REQ1229,University Health Services,Department of Statistics,Security,security service request from University Health Services to Department of Statistics,5,2026-08-05 12:43:00,2026-08-08 13:43:00,Pending
+REQ1230,Okponglo Gate,School of Engineering,Security,security service request from Okponglo Gate to School of Engineering,3,2026-08-06 15:50:00,2026-08-07 16:50:00,Pending
+REQ1231,Radio Univers,Noguchi Memorial Institute,ICT,ict service request from Radio Univers to Noguchi Memorial Institute,4,2026-08-07 07:57:00,2026-08-10 11:57:00,Pending
+REQ1232,School of Communication,Legon Hall,Furniture,furniture service request from School of Communication to Legon Hall,5,2026-08-08 10:04:00,2026-08-10 13:04:00,Resolved
+REQ1233,Mathematics Department,Mensah Sarbah Hall,Plumbing,plumbing service request from Mathematics Department to Mensah Sarbah Hall,3,2026-08-09 13:11:00,2026-08-10 15:11:00,In Progress
+REQ1234,University Health Services,Legon Hall,Laboratory,laboratory service request from University Health Services to Legon Hall,4,2026-08-10 16:18:00,2026-08-11 17:18:00,Pending
+REQ1235,Institute of African Studies,University Health Services,Water Supply,water supply service request from Institute of African Studies to University Health Services,1,2026-08-11 08:25:00,2026-08-13 12:25:00,Pending
+REQ1236,Fire Station,Sports Directorate,Security,security service request from Fire Station to Sports Directorate,1,2026-08-12 11:32:00,2026-08-13 15:32:00,Pending
+REQ1237,Ayi Mensah Gate,School of Education,Plumbing,plumbing service request from Ayi Mensah Gate to School of Education,3,2026-08-13 14:39:00,2026-08-16 19:39:00,Resolved
+REQ1238,School of Engineering,Ayi Mensah Gate,Plumbing,plumbing service request from School of Engineering to Ayi Mensah Gate,3,2026-08-14 17:46:00,2026-08-15 18:46:00,Pending
+REQ1239,Department of Statistics,School of Nursing,Cleaning,cleaning service request from Department of Statistics to School of Nursing,4,2026-08-15 09:53:00,2026-08-16 15:53:00,Pending
+REQ1240,University Bookshop,Radio Univers,Plumbing,plumbing service request from University Bookshop to Radio Univers,4,2026-08-16 12:00:00,2026-08-19 13:00:00,Resolved
+REQ1241,Maintenance Yard,Department of Psychology,Cleaning,cleaning service request from Maintenance Yard to Department of Psychology,3,2026-08-17 15:07:00,2026-08-19 20:07:00,Resolved
+REQ1242,School of Nursing,School of Law,Network,network service request from School of Nursing to School of Law,5,2026-08-18 07:14:00,2026-08-19 12:14:00,In Progress
+REQ1243,School of Agriculture,Great Hall,Laboratory,laboratory service request from School of Agriculture to Great Hall,5,2026-08-19 10:21:00,2026-08-21 15:21:00,In Progress
+REQ1244,School of Biological Sciences,Okponglo Gate,Cleaning,cleaning service request from School of Biological Sciences to Okponglo Gate,2,2026-08-20 13:28:00,2026-08-23 19:28:00,Resolved
+REQ1245,Fire Station,Chemistry Department,Security,security service request from Fire Station to Chemistry Department,5,2026-08-21 16:35:00,2026-08-23 19:35:00,In Progress
+REQ1246,Mensah Sarbah Hall,Department of Statistics,Furniture,furniture service request from Mensah Sarbah Hall to Department of Statistics,1,2026-08-22 08:42:00,2026-08-23 13:42:00,Resolved
+REQ1247,Noguchi Memorial Institute,Legon Botanical Gardens,Security,security service request from Noguchi Memorial Institute to Legon Botanical Gardens,1,2026-08-23 11:49:00,2026-08-26 14:49:00,In Progress
+REQ1248,School of Communication,Ayi Mensah Gate,Network,network service request from School of Communication to Ayi Mensah Gate,4,2026-08-24 14:56:00,2026-08-27 18:56:00,Resolved
+REQ1249,Legon Hall,University Bookshop,Water Supply,water supply service request from Legon Hall to University Bookshop,4,2026-08-25 17:03:00,2026-08-28 20:03:00,Resolved
+REQ1250,Night Market,ISSER,Electrical,electrical service request from Night Market to ISSER,3,2026-08-26 09:10:00,2026-08-28 15:10:00,In Progress
+REQ1251,School of Agriculture,Sports Directorate,Electrical,electrical service request from School of Agriculture to Sports Directorate,3,2026-08-27 12:17:00,2026-08-29 16:17:00,Pending
+REQ1252,Department of Statistics,Balme Library,Cleaning,cleaning service request from Department of Statistics to Balme Library,5,2026-08-28 15:24:00,2026-08-31 16:24:00,Pending
+REQ1253,Maintenance Yard,Noguchi Memorial Institute,Water Supply,water supply service request from Maintenance Yard to Noguchi Memorial Institute,3,2026-08-01 07:31:00,2026-08-03 10:31:00,Resolved
+REQ1254,School of Agriculture,UGCS,Furniture,furniture service request from School of Agriculture to UGCS,2,2026-08-02 10:38:00,2026-08-03 11:38:00,Pending
+REQ1255,Mathematics Department,Commonwealth Hall,Security,security service request from Mathematics Department to Commonwealth Hall,5,2026-08-03 13:45:00,2026-08-06 17:45:00,Pending
+REQ1256,Institute of African Studies,Department of Psychology,Laboratory,laboratory service request from Institute of African Studies to Department of Psychology,5,2026-08-04 16:52:00,2026-08-07 21:52:00,Pending
+REQ1257,School of Biological Sciences,TFPP,Plumbing,plumbing service request from School of Biological Sciences to TFPP,4,2026-08-05 08:59:00,2026-08-06 09:59:00,Resolved
+REQ1258,Volta Hall,Legon Hall,Plumbing,plumbing service request from Volta Hall to Legon Hall,5,2026-08-06 11:06:00,2026-08-09 17:06:00,In Progress
+REQ1259,Great Hall,TFPP,Road Maintenance,road maintenance service request from Great Hall to TFPP,5,2026-08-07 14:13:00,2026-08-10 15:13:00,In Progress
+REQ1260,Okponglo Gate,University Bookshop,Laboratory,laboratory service request from Okponglo Gate to University Bookshop,4,2026-08-08 17:20:00,2026-08-09 18:20:00,In Progress
+REQ1261,School of Nursing,Physics Department,Cleaning,cleaning service request from School of Nursing to Physics Department,5,2026-08-09 09:27:00,2026-08-10 14:27:00,In Progress
+REQ1262,Graduate Students Centre,Commonwealth Hall,Plumbing,plumbing service request from Graduate Students Centre to Commonwealth Hall,4,2026-08-10 12:34:00,2026-08-13 16:34:00,In Progress
+REQ1263,Fire Station,School of Education,ICT,ict service request from Fire Station to School of Education,1,2026-08-11 15:41:00,2026-08-13 16:41:00,Pending
+REQ1264,Ayi Mensah Gate,Computer Science Department,Cleaning,cleaning service request from Ayi Mensah Gate to Computer Science Department,4,2026-08-12 07:48:00,2026-08-15 12:48:00,Pending
+REQ1265,School of Business,UG Medical School,ICT,ict service request from School of Business to UG Medical School,3,2026-08-13 10:55:00,2026-08-14 11:55:00,Pending
+REQ1266,University Health Services,Night Market,Plumbing,plumbing service request from University Health Services to Night Market,3,2026-08-14 13:02:00,2026-08-16 14:02:00,Pending
+REQ1267,University Bookshop,Science Roundabout,Plumbing,plumbing service request from University Bookshop to Science Roundabout,3,2026-08-15 16:09:00,2026-08-18 18:09:00,Pending
+REQ1268,Noguchi Memorial Institute,School of Agriculture,Plumbing,plumbing service request from Noguchi Memorial Institute to School of Agriculture,3,2026-08-16 08:16:00,2026-08-19 13:16:00,Pending
+REQ1269,Commonwealth Road Junction,Volta Hall,Furniture,furniture service request from Commonwealth Road Junction to Volta Hall,4,2026-08-17 11:23:00,2026-08-20 14:23:00,Pending
+REQ1270,Chemistry Department,Physics Department,Furniture,furniture service request from Chemistry Department to Physics Department,5,2026-08-18 14:30:00,2026-08-20 20:30:00,Pending
+REQ1271,Night Market,School of Agriculture,Network,network service request from Night Market to School of Agriculture,4,2026-08-19 17:37:00,2026-08-21 19:37:00,Pending
+REQ1272,Radio Univers,Mathematics Department,Security,security service request from Radio Univers to Mathematics Department,4,2026-08-20 09:44:00,2026-08-21 15:44:00,Resolved
+REQ1273,TFPP,Department of Psychology,Cleaning,cleaning service request from TFPP to Department of Psychology,5,2026-08-21 12:51:00,2026-08-22 17:51:00,In Progress
+REQ1274,School of Law,SRC Secretariat,Cleaning,cleaning service request from School of Law to SRC Secretariat,4,2026-08-22 15:58:00,2026-08-25 16:58:00,In Progress
+REQ1275,Physics Department,School of Physical Sciences,Road Maintenance,road maintenance service request from Physics Department to School of Physical Sciences,4,2026-08-23 07:05:00,2026-08-26 08:05:00,Pending
+REQ1276,School of Nursing,Mensah Sarbah Hall,Cleaning,cleaning service request from School of Nursing to Mensah Sarbah Hall,4,2026-08-24 10:12:00,2026-08-25 14:12:00,In Progress
+REQ1277,School of Biological Sciences,School of Nursing,ICT,ict service request from School of Biological Sciences to School of Nursing,1,2026-08-25 13:19:00,2026-08-26 16:19:00,In Progress
+REQ1278,Akuafo Hall,Computer Science Department,Furniture,furniture service request from Akuafo Hall to Computer Science Department,5,2026-08-26 16:26:00,2026-08-27 17:26:00,In Progress
+REQ1279,Computer Science Department,Balme Library,Security,security service request from Computer Science Department to Balme Library,1,2026-08-27 08:33:00,2026-08-29 12:33:00,Resolved
+REQ1280,Okponglo Gate,Institute of African Studies,Security,security service request from Okponglo Gate to Institute of African Studies,5,2026-08-28 11:40:00,2026-08-31 16:40:00,Pending
+REQ1281,Great Hall,ISSER,Network,network service request from Great Hall to ISSER,4,2026-08-01 14:47:00,2026-08-04 18:47:00,Resolved
+REQ1282,Ayi Mensah Gate,Commonwealth Hall,Security,security service request from Ayi Mensah Gate to Commonwealth Hall,3,2026-08-02 17:54:00,2026-08-03 22:54:00,In Progress
+REQ1283,Volta Hall Junction,School of Education,Laboratory,laboratory service request from Volta Hall Junction to School of Education,3,2026-08-03 09:01:00,2026-08-05 14:01:00,Pending
+REQ1284,School of Education,School of Communication,Electrical,electrical service request from School of Education to School of Communication,4,2026-08-04 12:08:00,2026-08-06 18:08:00,Pending
+REQ1285,School of Communication,Department of Statistics,Electrical,electrical service request from School of Communication to Department of Statistics,4,2026-08-05 15:15:00,2026-08-06 21:15:00,In Progress
+REQ1286,UG Main Gate,Mensah Sarbah Hall,Security,security service request from UG Main Gate to Mensah Sarbah Hall,1,2026-08-06 07:22:00,2026-08-08 08:22:00,Pending
+REQ1287,Ayi Mensah Gate,School of Law,Furniture,furniture service request from Ayi Mensah Gate to School of Law,3,2026-08-07 10:29:00,2026-08-08 14:29:00,Resolved
+REQ1288,UGCS,Mensah Sarbah Hall,Electrical,electrical service request from UGCS to Mensah Sarbah Hall,5,2026-08-08 13:36:00,2026-08-10 16:36:00,Pending
+REQ1289,UG Main Gate,School of Communication,ICT,ict service request from UG Main Gate to School of Communication,2,2026-08-09 16:43:00,2026-08-12 21:43:00,In Progress
+REQ1290,Mathematics Department,School of Nursing,Water Supply,water supply service request from Mathematics Department to School of Nursing,3,2026-08-10 08:50:00,2026-08-12 12:50:00,Resolved
+REQ1291,Ayi Mensah Gate,Computer Science Department,Plumbing,plumbing service request from Ayi Mensah Gate to Computer Science Department,4,2026-08-11 11:57:00,2026-08-13 14:57:00,Pending
+REQ1292,Department of Statistics,Commonwealth Road Junction,Network,network service request from Department of Statistics to Commonwealth Road Junction,5,2026-08-12 14:04:00,2026-08-15 18:04:00,In Progress
+REQ1293,Maintenance Yard,UG Medical School,Furniture,furniture service request from Maintenance Yard to UG Medical School,3,2026-08-13 17:11:00,2026-08-16 18:11:00,Pending
+REQ1294,University Auditorium,School of Physical Sciences,ICT,ict service request from University Auditorium to School of Physical Sciences,1,2026-08-14 09:18:00,2026-08-16 11:18:00,Pending
+REQ1295,SRC Secretariat,Maintenance Yard,Furniture,furniture service request from SRC Secretariat to Maintenance Yard,3,2026-08-15 12:25:00,2026-08-18 16:25:00,In Progress
+REQ1296,University Health Services,Great Hall,Cleaning,cleaning service request from University Health Services to Great Hall,3,2026-08-16 15:32:00,2026-08-19 16:32:00,Resolved
+REQ1297,Great Hall,School of Physical Sciences,Road Maintenance,road maintenance service request from Great Hall to School of Physical Sciences,3,2026-08-17 07:39:00,2026-08-20 08:39:00,In Progress
+REQ1298,Balme Car Park,Aquatic Centre,Water Supply,water supply service request from Balme Car Park to Aquatic Centre,3,2026-08-18 10:46:00,2026-08-20 11:46:00,Pending
+REQ1299,Legon Botanical Gardens,Institute of African Studies,Cleaning,cleaning service request from Legon Botanical Gardens to Institute of African Studies,1,2026-08-19 13:53:00,2026-08-22 14:53:00,Resolved
+REQ1300,TFPP,School of Engineering,Security,security service request from TFPP to School of Engineering,5,2026-08-20 16:00:00,2026-08-22 18:00:00,In Progress
